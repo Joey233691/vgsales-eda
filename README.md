@@ -66,7 +66,6 @@ A data analysis project exploring global video game sales trends across platform
 ## 🛠 Dependencies
  
 ```
-Python 3.x
 pandas
 numpy
 matplotlib
@@ -74,33 +73,12 @@ seaborn
 scipy
 ```
  
-Install all dependencies:
- 
-```bash
-pip install pandas numpy matplotlib seaborn scipy
-```
- 
----
- 
-## ▶️ How to Run
- 
-```bash
-# 1. Clone the repository
-git clone https://github.com/Joey233691/vgsales-eda
-cd vgsales-eda
- 
-# 2. Install dependencies
-pip install pandas numpy matplotlib seaborn scipy
- 
-# 3. Open the notebook
-jupyter notebook assignment.ipynb
-```
- 
-Or open `vgsales-eda.html` directly in a browser to view the pre-rendered report without running any code.
+
  
 ---
  
 ## 👤 Author
  
-**Ying Qiao** 
+**Ying Qiao · MSc Information Systems, University College Dublin
+joey2330000@gmail.com · LinkedIn · GitHub** 
  
